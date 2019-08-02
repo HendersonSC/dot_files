@@ -1,0 +1,11 @@
+[core]
+    editor = nvim
+[user]
+    name = Shane C. Henderson
+    email = schender@ncsu.edu
+[color]
+    ui =true
+[color "grep"]
+    linenumber = cyan bold
+    match = red
+    filename = green
